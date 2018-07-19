@@ -5,3 +5,4 @@
   - Beautiful Soup
   - Google Maps API
 * Problem 1: ML (Random Forrest) or Graph (see paper)?
+* Problem 4: Create a frequency matrix? Use LDA algorithm to find un/popular topics for each year
